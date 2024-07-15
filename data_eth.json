@@ -1,0 +1,132 @@
+{
+    "tokens": [
+        {
+            "address": "0x690713132c61efe77e0e6f1a6590b1f4d25ca15b",
+            "name": "Fight Club",
+            "symbol": "FIGHT",
+            "logo": "https://www.dextools.io/resources/tokens/logos/ether/0x690713132c61efe77e0e6f1a6590b1f4d25ca15b.png?1721026205145",
+            "description": "",
+            "creationTime": "2024-07-15T06:04:47.000Z",
+            "creationBlock": 20310004,
+            "decimals": 9,
+            "socialInfo": {
+                "email": "",
+                "bitbucket": "",
+                "discord": "",
+                "facebook": "",
+                "github": "",
+                "instagram": "",
+                "linkedin": "",
+                "medium": "",
+                "reddit": "",
+                "telegram": "https://t.me/Fight_Club_ERC",
+                "tiktok": "",
+                "twitter": "https://x.com/FightClub_erc",
+                "website": "https://www.fightcluberc.com/",
+                "youtube": ""
+            }
+        },
+        {
+            "address": "0x420420ce25f83cf6c34a63c7556299fc4b10ad6f",
+            "name": "TOKER",
+            "symbol": "TOKER",
+            "logo": "https://www.dextools.io/resources/tokens/logos/ether/0x420420ce25f83cf6c34a63c7556299fc4b10ad6f.jpg?1721024836894",
+            "description": "Toker Token, inspired by Matt Furie whimsical art and the \"420\" lifestyle, is unique digital asset celebrating cannabis culture on Ethereum.",
+            "creationTime": "2024-07-10T21:37:59.000Z",
+            "creationBlock": 20278836,
+            "decimals": 9,
+            "socialInfo": {
+                "email": "Toker0x420.eth@gmail.com",
+                "bitbucket": "",
+                "discord": "",
+                "facebook": "",
+                "github": "",
+                "instagram": "",
+                "linkedin": "",
+                "medium": "",
+                "reddit": "",
+                "telegram": "https://t.me/TokeronETH",
+                "tiktok": "",
+                "twitter": "https://x.com/TokerETH",
+                "website": "https://www.toker0x420.com/",
+                "youtube": ""
+            }
+        },
+        {
+            "address": "0x47d47dd5013a92f89dec3e65361d75f687bdcba3",
+            "name": "Donald Trunk",
+            "symbol": "TRUNK",
+            "logo": "https://www.dextools.io/resources/tokens/logos/ether/0x47d47dd5013a92f89dec3e65361d75f687bdcba3.jpg?1721024242557",
+            "description": "This coin is going to be as YUGE, believe me when I tell you... we are going to take this very very far.",
+            "decimals": 18,
+            "socialInfo": {
+                "email": "",
+                "bitbucket": "",
+                "discord": "",
+                "facebook": "",
+                "github": "",
+                "instagram": "",
+                "linkedin": "",
+                "medium": "",
+                "reddit": "",
+                "telegram": "https://t.me/DonaldTrunkToken",
+                "tiktok": "",
+                "twitter": "https://x.com/DonaldTrunkErc",
+                "website": "https://www.donaldtrunketh.com/",
+                "youtube": ""
+            }
+        },
+        {
+            "address": "0x12008b8784f39709fe4b757340da5548918b9d57",
+            "name": "Agenda 47",
+            "symbol": "AGENDA47",
+            "logo": "https://www.dextools.io/resources/tokens/logos/ether/0x12008b8784f39709fe4b757340da5548918b9d57.png?1721023996789",
+            "description": "\"#Agenda 47 , President Trump\u2019s 20 CORE PROMISES TO MAKE AMERICA GREAT AGAIN!  \r\n\r\nsecond most used hashtag/ticker next to $MAGA \"",
+            "creationTime": "2024-07-15T03:24:59.000Z",
+            "creationBlock": 20309208,
+            "decimals": 9,
+            "socialInfo": {
+                "email": "team@AGENDA47.xyz",
+                "bitbucket": "",
+                "discord": "",
+                "facebook": "",
+                "github": "",
+                "instagram": "",
+                "linkedin": "",
+                "medium": "",
+                "reddit": "",
+                "telegram": "https://t.me/agenda47erc",
+                "tiktok": "",
+                "twitter": "https://x.com/agenda47erc",
+                "website": "https://agenda47.xyz/",
+                "youtube": ""
+            }
+        },
+        {
+            "address": "0x3bedeb79868bc0bce6c98ea7f43e9edc39371fea",
+            "name": "Trump's Fist of America",
+            "symbol": "FOA",
+            "logo": "https://www.dextools.io/resources/tokens/logos/ether/0x3bedeb79868bc0bce6c98ea7f43e9edc39371fea.jpg?1720931518008",
+            "description": "The raised fist is also understood to represent power from below and solidarity between people joined in political struggle.",
+            "creationTime": "2024-07-14T02:33:11.000Z",
+            "creationBlock": 20301783,
+            "decimals": 9,
+            "socialInfo": {
+                "email": "",
+                "bitbucket": "",
+                "discord": "",
+                "facebook": "",
+                "github": "",
+                "instagram": "",
+                "linkedin": "",
+                "medium": "",
+                "reddit": "",
+                "telegram": "https://t.me/FOACTO",
+                "tiktok": "",
+                "twitter": "https://x.com/TrumpFOAETH",
+                "website": "https://fistofamericacto.com/",
+                "youtube": ""
+            }
+        }
+    ]
+}
